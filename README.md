@@ -1,0 +1,3 @@
+- Hello, I'm @diggunion
+- This is my first public project from The Odin Project foundation course
+- This is a basic recipe website
